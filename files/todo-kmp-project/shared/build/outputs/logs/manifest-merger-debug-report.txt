@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/janethsg/Downloads/KotlinMultiplatform - ExplicationPresentationProject/files/todo-kmp-project/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest14883000038521002376.xml:2:13-83
+INJECTED from /Users/janethsg/Downloads/KotlinMultiplatform - ExplicationPresentationProject/files/todo-kmp-project/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest14883000038521002376.xml:2:13-83
+	package
+		INJECTED from /Users/janethsg/Downloads/KotlinMultiplatform - ExplicationPresentationProject/files/todo-kmp-project/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest14883000038521002376.xml
+	xmlns:android
+		ADDED from /Users/janethsg/Downloads/KotlinMultiplatform - ExplicationPresentationProject/files/todo-kmp-project/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest14883000038521002376.xml:2:23-81
+uses-sdk
+INJECTED from /Users/janethsg/Downloads/KotlinMultiplatform - ExplicationPresentationProject/files/todo-kmp-project/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest14883000038521002376.xml reason: use-sdk injection requested
+INJECTED from /Users/janethsg/Downloads/KotlinMultiplatform - ExplicationPresentationProject/files/todo-kmp-project/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest14883000038521002376.xml
+INJECTED from /Users/janethsg/Downloads/KotlinMultiplatform - ExplicationPresentationProject/files/todo-kmp-project/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest14883000038521002376.xml
+	android:targetSdkVersion
+		INJECTED from /Users/janethsg/Downloads/KotlinMultiplatform - ExplicationPresentationProject/files/todo-kmp-project/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest14883000038521002376.xml
+	android:minSdkVersion
+		INJECTED from /Users/janethsg/Downloads/KotlinMultiplatform - ExplicationPresentationProject/files/todo-kmp-project/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest14883000038521002376.xml
